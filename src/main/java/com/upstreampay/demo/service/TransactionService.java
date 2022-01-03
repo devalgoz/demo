@@ -4,7 +4,7 @@ import com.upstreampay.demo.domain.Transaction;
 import com.upstreampay.demo.domain.enums.TransactionStatus;
 import com.upstreampay.demo.exception.InvalidInputException;
 import com.upstreampay.demo.exception.NotFoundException;
-import com.upstreampay.demo.repositoty.TransactionRepository;
+import com.upstreampay.demo.repository.TransactionRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;

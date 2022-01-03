@@ -1,4 +1,4 @@
-package com.upstreampay.demo.repositoty;
+package com.upstreampay.demo.repository;
 
 import com.upstreampay.demo.domain.Transaction;
 import org.bson.types.ObjectId;
